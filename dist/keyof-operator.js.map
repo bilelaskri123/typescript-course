@@ -1,0 +1,1 @@
+{"version":3,"file":"keyof-operator.js","sourceRoot":"","sources":["../src/keyof-operator.ts"],"names":[],"mappings":";AAQA,MAAM,SAAS,GAAe,KAAK,CAAC;AACpC,OAAO,CAAC,GAAG,CAAC,SAAS,CAAC,CAAC;AASvB,IAAI,EAAE,GAAW,OAAO,CAAC;AAGzB,eAAe;AACf,IAAI,KAAK,GAAG;IACR,KAAK,EAAE,MAAM;IACb,MAAM,EAAE,OAAO;IACf,KAAK,EAAE,EAAE;CACZ,CAAA"}
